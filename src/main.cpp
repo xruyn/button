@@ -9,7 +9,7 @@ void setup()
 {
         Serial.begin(9600);
         pinMode(13,OUTPUT);
-        //pinMode(9,OUTPUT);1
+        //pinMode(9,OUTPUT);12
 
 }
 
